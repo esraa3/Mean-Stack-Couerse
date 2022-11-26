@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+/* input {
+    margin: 5px;
+} */
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.div {
+    width: 80%;
+}
+#inpTask {
+    width: 600px;
+    margin-right: 5px;
+    margin-left: 10px;
+    padding-right: 3px;
+}
+.Mark{
+    color: gray;
+    text-decoration: line-through;
+}
+
+.SpanClass{
+margin-right: 5px;
+
+}
+.DelBtn {
+float: right;
+padding: 2px;
+
+}
